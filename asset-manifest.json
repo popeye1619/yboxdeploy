@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yboxdeploy/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/yboxdeploy/static/js/main.42538485.chunk.js",
+    "main.js.map": "/yboxdeploy/static/js/main.42538485.chunk.js.map",
+    "runtime-main.js": "/yboxdeploy/static/js/runtime-main.b1d705b7.js",
+    "runtime-main.js.map": "/yboxdeploy/static/js/runtime-main.b1d705b7.js.map",
+    "static/js/2.741f97a8.chunk.js": "/yboxdeploy/static/js/2.741f97a8.chunk.js",
+    "static/js/2.741f97a8.chunk.js.map": "/yboxdeploy/static/js/2.741f97a8.chunk.js.map",
+    "static/js/3.5caaab66.chunk.js": "/yboxdeploy/static/js/3.5caaab66.chunk.js",
+    "static/js/3.5caaab66.chunk.js.map": "/yboxdeploy/static/js/3.5caaab66.chunk.js.map",
+    "index.html": "/yboxdeploy/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/yboxdeploy/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.741f97a8.chunk.js.LICENSE.txt": "/yboxdeploy/static/js/2.741f97a8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1d705b7.js",
+    "static/js/2.741f97a8.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.42538485.chunk.js"
+  ]
+}
